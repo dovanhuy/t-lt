@@ -81,3 +81,9 @@ static JTextArea content; // Khai báo ô nhập nội dung chat
         setVisible(true); // Cập nhật lại giao diện
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); // Thoát giao diện khi đóng
     }
+    
+    
+    
+    
+    12345
+    
